@@ -1,3 +1,4 @@
+<div>
 # Privacy Policy
 Miguel built the Network Explorer app as a Free app. This SERVICE is provided by Miguel at no cost and is intended for use as is.
 
@@ -57,3 +58,4 @@ This policy is effective as of 2023-08-28
 ## Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at msd117c@gmail.com.
+</div>
